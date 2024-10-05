@@ -9,7 +9,7 @@ about:
 ::: {#me}
 ## About me
 
-My name is Reilly Richardson and I am a junior Biomedical Science major in the Medical Microbiology option at UNH.I am from Windham, NH. I am very interested in studying pathogenic microbes and I have really been enjoying getting to see how using R may be applicable to me in organizing and presenting data for the future.
+My name is Reilly Richardson and I am a junior Biomedical Science major in the Medical Microbiology option at UNH. I am from Windham, NH. I am very interested in studying pathogenic microbes and I have really been enjoying getting to see how using R may be applicable to me in organizing and presenting data for the future.
 
 ## Goals
 
