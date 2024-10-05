@@ -3,17 +3,27 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_1024.JPEG
 ---
 
-:::{#me}
+::: {#me}
+## About me
+
+My name is Reilly Richardson and I am a junior Biomedical Science major in the Medical Microbiology option at UNH.I am from Windham, NH. I am very interested in studying pathogenic microbes and I have really been enjoying getting to see how using R may be applicable to me in organizing and presenting data for the future.
 
 ## Goals
 
-## Education
+-   Finish my bachelor's degree
+-   Apply to graduate programs in microbiology
+-   Hopefully have a career in infectious disease research!
 
-## Experience
+## Outside the classroom
 
+I love spending time with family, friends, and my dog!
+
+Her name is Dottie!
+
+![](dottie.jpg)
 :::
 
 Thanks for checking out my web site!

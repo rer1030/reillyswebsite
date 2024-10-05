@@ -10,8 +10,8 @@ website:
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: linkedin
+        href: www.linkedin.com/in/reilly-richardson-065039268 
       - icon: github
         href: https://github.com/rer1030/reillyswebsite.git
   page-footer:
@@ -20,7 +20,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: solar
     toc: true
 
 editor: source
